@@ -7,9 +7,7 @@ This repository is a related to all about Chatbot System for Virtual Univeristy 
 
 
 <details> 
-<summary> <h2>Course 01 - 📚Introduction of Computer Vision </h2> </summary>
-
-## 📚Chapter1: - **Dataset**
+<summary> <h2> **Dataset** </h2> </summary>
 
 | Dataset 1 | Dtaset 2| Dataset 3 |
 |---|---|---|
