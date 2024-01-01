@@ -17,7 +17,7 @@ This repository is a related to all about Chatbot System for Virtual Univeristy 
  <details> 
 <summary> <h2>📚Model training </h2> </summary>
 
-| Topic Name/Tutorial | Video | Code |
+| Code Name | Code | Code |
 |---|---|---|
 | **1- Saad?**|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Extraneous-comment-management-ECM-in-e-learning/blob/main/Model_Training_Saad.ipynb)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 </details>
