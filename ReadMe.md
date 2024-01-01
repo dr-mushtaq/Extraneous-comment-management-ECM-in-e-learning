@@ -14,8 +14,15 @@ This repository is a related to all about Chatbot System for Virtual Univeristy 
 |[**Student Frequently Asked Questions**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)|[**1**](https://drive.google.com/file/d/1c6plHK4Yqg_ch8QiNTtfGuSZSK0mt3lf/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 </details>
   
- 
+ <details> 
+<summary> <h2>Course 01 - 📚Introduction of Computer Vision </h2> </summary>
 
+<details> 
+<summary> <h2>Trained Models</h2> </summary>
+| Topic Name/Tutorial | Video | Code |
+|---|---|---|
+| [**1- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+</details>
 
 ## Module 02  - [**Supervised Learning with scikit_learn**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
