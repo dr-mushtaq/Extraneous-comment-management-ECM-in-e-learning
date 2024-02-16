@@ -25,8 +25,12 @@ This repository is a related to all about Chatbot System for Virtual Univeristy 
 
    
    
-## **Contributors**
-Thanks goes to these wonderful people 
+## **✨Top Contributors**
+We would love your help in making this repository even better! if you have any suggestions for improvement in any Projects content, feel free to open an issue or submit a course contribution request.
+
+                       Together, let's make this the best AI learning hub website! 🚀
+
+Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
 <a href="https://github.com/hussain0048/Extraneous-comment-management-ECM-in-e-learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Extraneous-comment-management-ECM-in-e-learning" />
