@@ -1,6 +1,7 @@
 **About**
 
-This repository is a related to all about Chatbot System for Virtual Univeristy of Pakistan - an A-Z guide to the world of Data Science. The coronavirus pandemic has brought about a huge increase in the popularity of E-learning this year, with virtually all educational organisations across the world implementing the virtual education system. Chatbots employed in learning systems are beneficial for a variety of objectives. They can respond to pertinent or inconsequential inquiries of students, direct the student's inquiry to the applicable department, and swiftly provide applicable information and decrease work load of instructor by reply to irrelevant student queries. E-learning, a modern form of technology, has several issues that need to be solved.
+ The coronavirus pandemic has brought about a huge increase in the popularity of E-learning this year, with virtually all educational organisations across the world implementing the virtual education system. Chatbots employed in learning systems are beneficial for a variety of objectives. They can respond to pertinent or inconsequential inquiries of students, direct the student's inquiry to the applicable department, and swiftly provide applicable information and decrease work load of instructor by reply to irrelevant student queries. E-learning, a modern form of technology, has several issues that need to be solved.This repository is a related to all about Chatbot System for Virtual Univeristy of Pakistan 
+ 
            Gatting quick answer in emergency
 Decrease instructor work load  
 resolve student compliant and problem 
