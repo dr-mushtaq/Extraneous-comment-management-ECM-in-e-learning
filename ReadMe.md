@@ -28,8 +28,8 @@ This repository is a related to all about Chatbot System for Virtual Univeristy 
 ## **Contributors**
 Thanks goes to these wonderful people 
 
-<a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
+<a href="https://github.com/hussain0048/Extraneous-comment-management-ECM-in-e-learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hussain0048/Extraneous-comment-management-ECM-in-e-learning" />
 </a>
 
 
